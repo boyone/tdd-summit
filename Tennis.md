@@ -29,7 +29,7 @@ Summary of tennis scoring:
 | ------------: | ------------: | --------------------- |
 |             0 |             0 | Love-Love             |
 |             1 |             0 | Fifteen-Love          |
-|             1 |             1 | Thirty-Fifteen        |
+|             1 |             1 | Fifteen-Fifteen        |
 |             2 |             1 | Thirty-Fifteen        |
 |             2 |             2 | Thirty-Thirty         |
 |             2 |             3 | Thirty-Forty          |
