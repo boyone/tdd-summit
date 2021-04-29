@@ -109,7 +109,7 @@ Summary of tennis scoring:
 11. Turn around
 
     นัท clone ต๋า's repository  
-    ต้น clone ต้น's repository  
+    ต๋า clone ต้น's repository  
     ...  
     โอม clone เอ's repository  
     เอ clone นัท's repository
