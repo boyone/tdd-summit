@@ -17,23 +17,23 @@ Summary of tennis scoring:
 
 ## Rule
 
-| ชื่อ    | username    | repository      | ssh                                            |
-| ------- | ----------- | --------------- | ---------------------------------------------- |
-| นัท     | nuttipol | tennis-legacy01 | git@github.com:nuttipol/tennis-legacy01.git |
-| ต๋า     | charleech | tennis-legacy02 | git@github.com:charleech/tennis-legacy02.git |
-| ต้น     | \<username> | tennis-legacy03 | git@github.com:\<username>/tennis-legacy03.git |
-| ต้าร์   | chutima-ju | tennis-legacy04 | git@github.com:chutima-ju/tennis-legacy04.git |
-| ตัวเล็ก | terexwizard | tennis-legacy05 | git@github.com:terexwizard/tennis-legacy05.git |
-| อาร์ท   | artcung | tennis-legacy06 | git@github.com:artcung/tennis-legacy06.git |
-| เอ      | Freedom0036 | tennis-legacy07 | git@github.com:Freedom0036/tennis-legacy07.git |
-| วิตร    | sawit857 | tennis-legacy08 | git@github.com:sawit857/tennis-legacy08.git |
-| ตั้ม    | newBaros| tennis-legacy09 | git@github.com:newBaros/tennis-legacy09.git |
-| อาร์ม   | \<username> | tennis-legacy10 | git@github.com:\<username>/tennis-legacy10.git |
-| บูม     | \<username> | tennis-legacy11 | git@github.com:\<username>/tennis-legacy11.git |
-| ไผ่     | tiwakorn | tennis-legacy12 | git@github.com:tiwakorn/tennis-legacy12.git |
-| ฟลุ๊ค   | SuperRico | tennis-legacy13 | git@github.com:SuperRico/tennis-legacy13.git |
-| โอม     | niti-sdpt | tennis-legacy14 | git@github.com:niti-sdpt/tennis-legacy14.git |
-| เอ      | titipong88 | tennis-legacy15 | git@github.com:titipong88/tennis-legacy15.git |
+| ชื่อ    | username    | repository      | https                                              |
+| ------- | ----------- | --------------- | -------------------------------------------------- |
+| นัท     | nuttipol    | tennis-legacy01 | https://github.com/nuttipol/tennis-legacy01.git    |
+| ต๋า     | charleech   | tennis-legacy02 | https://github.com/charleech/tennis-legacy02.git   |
+| ต้น     | \<username> | tennis-legacy03 | https://github.com/\<username>/tennis-legacy03.git |
+| ต้าร์   | chutima-ju  | tennis-legacy04 | https://github.com/chutima-ju/tennis-legacy04.git  |
+| ตัวเล็ก | terexwizard | tennis-legacy05 | https://github.com/terexwizard/tennis-legacy05.git |
+| อาร์ท   | artcung     | tennis-legacy06 | https://github.com/artcung/tennis-legacy06.git     |
+| เอ      | Freedom0036 | tennis-legacy07 | https://github.com/Freedom0036/tennis-legacy07.git |
+| วิตร    | sawit857    | tennis-legacy08 | https://github.com/sawit857/tennis-legacy08.git    |
+| ตั้ม    | newBaros    | tennis-legacy09 | https://github.com/newBaros/tennis-legacy09.git    |
+| อาร์ม   | \<username> | tennis-legacy10 | https://github.com/\<username>/tennis-legacy10.git |
+| บูม     | \<username> | tennis-legacy11 | https://github.com/\<username>/tennis-legacy11.git |
+| ไผ่     | tiwakorn    | tennis-legacy12 | https://github.com/tiwakorn/tennis-legacy12.git    |
+| ฟลุ๊ค   | SuperRico   | tennis-legacy13 | https://github.com/SuperRico/tennis-legacy13.git   |
+| โอม     | niti-sdpt   | tennis-legacy14 | https://github.com/niti-sdpt/tennis-legacy14.git   |
+| เอ      | titipong88  | tennis-legacy15 | https://github.com/titipong88/tennis-legacy15.git  |
 
 1. [Create a Repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) call tennis-legacy[xx]
 
