@@ -119,6 +119,9 @@ Summary of tennis scoring:
     ```sh
     cd path/to/workspace
     git clone git@github.com:titipong88/tennis-legacy15.git
+
+    ls 
+    tennis-legacy14     tennis-legacy15
     ```
 
 12. Open project with your IDE, then continuous implement(30 minutes).
