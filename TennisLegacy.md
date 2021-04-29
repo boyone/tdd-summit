@@ -121,21 +121,27 @@ Summary of tennis scoring:
     git clone git@github.com:<username>/tennis-legacy15.git
     ```
 
-12. Open project with your IDE, then continuous implement.
+12. Open project with your IDE, then continuous implement(30 minutes).
 
-13. Commit the files that you've staged in your local repository.
+13. Stage your changes
+
+    ```sh
+    git add <changed files>
+    ```
+
+14. Commit the files that you've staged in your local repository.
 
     ```sh
     git commit -m "Your commit message"
     ```
 
-14. Push the changes in your local repository to GitHub.
+15. Push the changes in your local repository to GitHub.
 
     ```sh
     git push
     ```
 
-15. Go back to your original project
+16. Go back to your original project
 
     e.g. โอม
 
