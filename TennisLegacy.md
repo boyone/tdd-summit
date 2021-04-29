@@ -108,10 +108,10 @@ Summary of tennis scoring:
 
 11. Turn around
 
-    นัท clone ต๋า's repository
-    ต้น clone ต้น's repository
-    ...
-    โอม clone เอ's repository
+    นัท clone ต๋า's repository  
+    ต้น clone ต้น's repository  
+    ...  
+    โอม clone เอ's repository  
     เอ clone นัท's repository
 
     e.g. โอม clone เอ's repository
@@ -133,19 +133,4 @@ Summary of tennis scoring:
 
     ```sh
     git commit -m "Your commit message"
-    ```
-
-15. Push the changes in your local repository to GitHub.
-
-    ```sh
-    git push
-    ```
-
-16. Go back to your original project
-
-    e.g. โอม
-
-    ```sh
-    cd ../tennis-legacy14
-    git pull
     ```
