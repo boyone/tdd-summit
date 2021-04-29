@@ -28,7 +28,7 @@ Summary of tennis scoring:
 | เอ      | Freedom0036 | tennis-legacy07 | https://github.com/Freedom0036/tennis-legacy07.git |
 | วิตร    | sawit857    | tennis-legacy08 | https://github.com/sawit857/tennis-legacy08.git    |
 | ตั้ม    | newBaros    | tennis-legacy09 | https://github.com/newBaros/tennis-legacy09.git    |
-| อาร์ม   | \<username> | tennis-legacy10 | https://github.com/\<username>/tennis-legacy10.git |
+| อาร์ม   | zicula06 | tennis-legacy10 | https://github.com/zicula06/tennis-legacy10.git |
 | บูม     | \<username> | tennis-legacy11 | https://github.com/\<username>/tennis-legacy11.git |
 | ไผ่     | tiwakorn    | tennis-legacy12 | https://github.com/tiwakorn/tennis-legacy12.git    |
 | ฟลุ๊ค   | SuperRico   | tennis-legacy13 | https://github.com/SuperRico/tennis-legacy13.git   |
