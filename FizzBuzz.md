@@ -4,25 +4,25 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 Sample output:
 
-```txt
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-16
-17
-Fizz
-19
-Buzz
-```
+| input    | FizzBuzzNumber |
+| -------- | -------------- |
+| 1        | 1              |
+| 2        | 2              |
+| Fizz     | Fizz           |
+| 4        | 4              |
+| Buzz     | Buzz           |
+| Fizz     | Fizz           |
+| 7        | 7              |
+| 8        | 8              |
+| Fizz     | Fizz           |
+| Buzz     | Buzz           |
+| 11       | 11             |
+| Fizz     | Fizz           |
+| 13       | 13             |
+| 14       | 14             |
+| FizzBuzz | FizzBuzz       |
+| 16       | 16             |
+| 17       | 17             |
+| Fizz     | Fizz           |
+| 19       | 19             |
+| Buzz     | Buzz           |

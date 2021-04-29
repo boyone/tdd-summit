@@ -1,4 +1,4 @@
-# Tennis Legacy
+# Tennis
 
 You task is to implement a tennis scoring program.
 Summary of tennis scoring:
@@ -47,7 +47,7 @@ Summary of tennis scoring:
 
    ```sh
    cd path/to/workspace
-   git clone git@github.com:boyone/tennis.git
+   git clone https://github.com/boyone/tennis.git
    ```
 
 2. Implement case by case
