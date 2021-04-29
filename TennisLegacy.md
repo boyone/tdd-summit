@@ -19,21 +19,21 @@ Summary of tennis scoring:
 
 | ชื่อ    | username    | repository      | ssh                                            |
 | ------- | ----------- | --------------- | ---------------------------------------------- |
-| นัท     | \<username> | tennis-legacy01 | git@github.com:\<username>/tennis-legacy01.git |
-| ต๋า     | \<username> | tennis-legacy02 | git@github.com:\<username>/tennis-legacy02.git |
+| นัท     | nuttipol | tennis-legacy01 | git@github.com:nuttipol/tennis-legacy01.git |
+| ต๋า     | charleech | tennis-legacy02 | git@github.com:charleech/tennis-legacy02.git |
 | ต้น     | \<username> | tennis-legacy03 | git@github.com:\<username>/tennis-legacy03.git |
-| ต้าร์   | \<username> | tennis-legacy04 | git@github.com:\<username>/tennis-legacy04.git |
-| ตัวเล็ก | \<username> | tennis-legacy05 | git@github.com:\<username>/tennis-legacy05.git |
-| อาร์ท   | \<username> | tennis-legacy06 | git@github.com:\<username>/tennis-legacy06.git |
-| เอ      | \<username> | tennis-legacy07 | git@github.com:\<username>/tennis-legacy07.git |
-| วิตร    | \<username> | tennis-legacy08 | git@github.com:\<username>/tennis-legacy08.git |
-| ตั้ม    | \<username> | tennis-legacy09 | git@github.com:\<username>/tennis-legacy09.git |
+| ต้าร์   | chutima-ju | tennis-legacy04 | git@github.com:chutima-ju/tennis-legacy04.git |
+| ตัวเล็ก | terexwizard | tennis-legacy05 | git@github.com:terexwizard/tennis-legacy05.git |
+| อาร์ท   | artcung | tennis-legacy06 | git@github.com:artcung/tennis-legacy06.git |
+| เอ      | Freedom0036 | tennis-legacy07 | git@github.com:Freedom0036/tennis-legacy07.git |
+| วิตร    | sawit857 | tennis-legacy08 | git@github.com:sawit857/tennis-legacy08.git |
+| ตั้ม    | newBaros| tennis-legacy09 | git@github.com:newBaros/tennis-legacy09.git |
 | อาร์ม   | \<username> | tennis-legacy10 | git@github.com:\<username>/tennis-legacy10.git |
 | บูม     | \<username> | tennis-legacy11 | git@github.com:\<username>/tennis-legacy11.git |
-| ไผ่     | \<username> | tennis-legacy12 | git@github.com:\<username>/tennis-legacy12.git |
-| ฟลุ๊ค   | \<username> | tennis-legacy13 | git@github.com:\<username>/tennis-legacy13.git |
-| โอม     | \<username> | tennis-legacy14 | git@github.com:\<username>/tennis-legacy14.git |
-| เอ      | \<username> | tennis-legacy15 | git@github.com:\<username>/tennis-legacy15.git |
+| ไผ่     | tiwakorn | tennis-legacy12 | git@github.com:tiwakorn/tennis-legacy12.git |
+| ฟลุ๊ค   | SuperRico | tennis-legacy13 | git@github.com:SuperRico/tennis-legacy13.git |
+| โอม     | niti-sdpt | tennis-legacy14 | git@github.com:niti-sdpt/tennis-legacy14.git |
+| เอ      | titipong88 | tennis-legacy15 | git@github.com:titipong88/tennis-legacy15.git |
 
 1. [Create a Repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) call tennis-legacy[xx]
 
@@ -118,7 +118,7 @@ Summary of tennis scoring:
 
     ```sh
     cd path/to/workspace
-    git clone git@github.com:<username>/tennis-legacy15.git
+    git clone git@github.com:titipong88/tennis-legacy15.git
     ```
 
 12. Open project with your IDE, then continuous implement(30 minutes).
