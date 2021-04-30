@@ -2,6 +2,9 @@
 
 - @BeforeAll
 - @BeforeEach
+- @Test
+- @AfterEach
+- @AfterAll
 
 ```java
 import org.junit.jupiter.api.*;
