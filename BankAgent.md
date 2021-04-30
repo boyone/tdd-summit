@@ -1,4 +1,4 @@
-# Bang Agent
+# Bank Agent
 
 ## Criteria
 
@@ -7,4 +7,4 @@
 3. ต้องไม่เป็นบัญชีที่ถูกอาญัติ
 4. ช่วงเวลาที่อนุญาตให้ทำรายการฝาก ได้ 08:00 - 20:00
 
-> ![Bang Agent](./images/deposit.png)
+> ![Bank Agent](./images/deposit.png)
