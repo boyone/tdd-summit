@@ -7,5 +7,5 @@
 5. [BowlingGame](./BowlingGame.md)
 6. [JUnitLifeCycle](./JUnitLifeCycle.md)
 7. [Mockito](./Mockito.md)
-8. [Mock/Stub Exercise](./BangAgent.md)
+8. [Mock/Stub Exercise](./BankAgent.md)
 
