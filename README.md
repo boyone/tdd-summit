@@ -5,3 +5,6 @@
 3. [TDD Tennis](./Tennis.md)
 4. [FizzBuzz](./FizzBuzz.md)
 5. [BowlingGame](./BowlingGame.md)
+6. [JUnitLifeCycle](./JUnitLifeCycle.md)
+7. [Mockito](./Mockito.md)
+
